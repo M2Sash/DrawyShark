@@ -1,0 +1,15 @@
+/* Import font /font/barboskinsakzident.otf*/
+@font-face {
+  font-family: 'Barboskinsakzident';
+  src: url('/font/barboskinsakzident.otf') format('opentype');
+}
+
+p,
+text {
+  font-family: 'Barboskinsakzident', sans-serif;
+}
+*,
+*:before,
+*:after {
+    font-family: 'Barboskinsakzident', sans-serif !important;
+}
