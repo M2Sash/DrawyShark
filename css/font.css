@@ -1,7 +1,7 @@
 /* Import font /font/barboskinsakzident.otf*/
 @font-face {
   font-family: 'Barboskinsakzident';
-  src: url('/font/barboskinsakzident.otf') format('opentype');
+  src: url('./font/barboskinsakzident.otf') format('opentype');
 }
 
 p,
